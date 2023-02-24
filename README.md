@@ -1,8 +1,8 @@
 # Site--responsivo
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Responsive website </h1>
 
 <p align="center">
-Site criado com o objetivo de aplicar práticas responsivas<br/>
+website created with the aim of applying responsive practices<br/>
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@ Site criado com o objetivo de aplicar práticas responsivas<br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://www.figma.com/file/4BxyOLpMnR05Le4N4NiFAw/Explorer-Stage-03-Projeto-02-(Copy)?node-id=1505%3A2&t=vPLpqOtzAlnTdP9G-4">
+  <img alt="layout-preview" src="https://www.figma.com/file/4BxyOLpMnR05Le4N4NiFAw/Explorer-Stage-03-Projeto-02-(Copy)?node-id=1505%3A2&t=vPLpqOtzAlnTdP9G-4">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Site reesponsivo" src="github/preview.jpg" width="100%">
+  <img alt="Site responsivo" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
