@@ -23,7 +23,7 @@ This project was developed with the following technologies:
 - Figma
 
 ## 🔖 Layout
-You can view the layout of the project through [THIS LINK](https://www.figma.com/file/4BxyOLpMnR05Le4N4NiFAw/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412&t=1pgB8KZJ7WO055uC-0)). You must have an account at [Figma](https://figma.com) to access it.
+You can view the layout of the project through [THIS LINK](https://www.figma.com/file/4BxyOLpMnR05Le4N4NiFAw/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412&t=1pgB8KZJ7WO055uC-0). You must have an account at [Figma](https://figma.com) to access it.
 
 
 
