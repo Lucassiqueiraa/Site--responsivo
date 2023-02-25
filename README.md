@@ -6,7 +6,7 @@ website created with the aim of applying responsive practices<br/>
 </p>
 
 <p align="center">
-  <img alt="layout-preview" src="https://imgur.com/20xClKp"
+  <img alt="layout-preview" src="https://imgur.com/20xClKp">
 </p>
 
 <br>
