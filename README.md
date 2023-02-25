@@ -11,9 +11,6 @@ website created with the aim of applying responsive practices<br/>
 
 <br>
 
-<p align="center">
-  <img alt="Site responsivo" src="github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
