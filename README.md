@@ -5,7 +5,7 @@
 website created with the aim of applying responsive practices<br/>
 </p>
 <br>
-<h3>layout preview</h3>
+<h3><i>Layout preview</i></h3>
 <p align="center">
   <img alt="layout-preview" src="https://i.imgur.com/20xClKp.png">
 </p>
